@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "groovy-kts-migration"
-include ':app'
+include (":app")
